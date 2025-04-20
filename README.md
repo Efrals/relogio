@@ -1,4 +1,4 @@
-# 🕒 Relógio Analógico com HTML, CSS e JavaScript
+# 🕒 Relógio Analógico
 
 Um projeto simples de um **relógio analógico funcional** feito utilizando apenas HTML, CSS e JavaScript puro. O relógio exibe a hora atual em tempo real com ponteiros animados, simulando um mostrador analógico clássico.
 
@@ -15,7 +15,7 @@ Um projeto simples de um **relógio analógico funcional** feito utilizando apen
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
-- CSS3 (com grid layout)
+- CSS3
 - JavaScript puro (sem bibliotecas)
 
 ## 💡 Como usar
