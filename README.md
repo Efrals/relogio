@@ -1,6 +1,6 @@
 # 🕒 Relógio Analógico
 
-Um projeto simples de um **relógio analógico funcional** feito utilizando apenas HTML, CSS e JavaScript puro. O relógio exibe a hora atual em tempo real com ponteiros animados, simulando um mostrador analógico clássico.
+Um projeto simples de um **relógio analógico funcional** que exibe a hora atual em tempo real com ponteiros animados, simulando um mostrador analógico clássico.
 
 ## 📷 Preview
 
