@@ -20,7 +20,7 @@ Um projeto simples de um **relógio analógico funcional** que exibe a hora atua
 
 ## 💡 Como usar
 
-Entre no site: [Relógio](https://relogioers.netlify.app/)
+Entre no site: [Relógio](https://relogio-efrals.netlify.app/)
 
 OU
 
